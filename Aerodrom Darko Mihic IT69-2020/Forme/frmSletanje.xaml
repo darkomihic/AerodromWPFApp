@@ -1,0 +1,19 @@
+﻿<Window x:Class="Aerodrom_Darko_Mihic_IT69_2020.Forme.frmSletanje"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aerodrom_Darko_Mihic_IT69_2020.Forme"
+        mc:Ignorable="d"
+        Title="Dodaj/Izmeni sletanje" Height="200" Width="250">
+    <Grid>
+        <Label Content="Grad:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="68"/>
+        <Label Content="Vreme sletanja:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <Label Content="Gate:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtGradSletanje" HorizontalAlignment="Left" Margin="49,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtVremeSletanje" HorizontalAlignment="Left" Margin="109,45,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtGateSletanje" HorizontalAlignment="Left" Margin="47,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnSačuvaj" Content="Sačuvaj" HorizontalAlignment="Left" Margin="65,142,0,0" VerticalAlignment="Top" Click="btnSačuvaj_Click"/>
+        <Button x:Name="btnOtkazi" Content="Otkaži" HorizontalAlignment="Left" Margin="185,142,0,0" VerticalAlignment="Top" Click="btnOtkazi_Click"/>
+    </Grid>
+</Window>

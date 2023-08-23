@@ -1,0 +1,90 @@
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.exe
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.deps.json
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.runtimeconfig.json
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.dll
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\ref\Aerodrom Darko Mihic IT69-2020.dll
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.pdb
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.csproj.AssemblyReference.cache
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmAvion.g.cs
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmKarta.g.cs
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmLet.g.cs
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPasos.g.cs
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020_MarkupCompile.cache
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020_MarkupCompile.lref
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmAvion.baml
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmKarta.baml
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmLet.baml
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPasos.baml
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.g.resources
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.AssemblyInfoInputs.cache
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.AssemblyInfo.cs
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.csproj.CoreCompileInputs.cache
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.csproj.CopyComplete
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.dll
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\ref\Aerodrom Darko Mihic IT69-2020.dll
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.pdb
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.genruntimeconfig.cache
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPoletanje.g.cs
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPrtljag.g.cs
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPutnik.g.cs
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmSletanje.g.cs
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPoletanje.baml
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPrtljag.baml
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPutnik.baml
+C:\Users\mihic\source\repos\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmSletanje.baml
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.exe
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.deps.json
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.runtimeconfig.json
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.dll
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\ref\Aerodrom Darko Mihic IT69-2020.dll
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.pdb
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.csproj.AssemblyReference.cache
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmAvion.g.cs
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmKarta.g.cs
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmLet.g.cs
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPasos.g.cs
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPoletanje.g.cs
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPrtljag.g.cs
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPutnik.g.cs
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmSletanje.g.cs
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020_MarkupCompile.cache
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020_MarkupCompile.lref
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmAvion.baml
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmKarta.baml
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmLet.baml
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPasos.baml
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPoletanje.baml
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPrtljag.baml
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmPutnik.baml
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Forme\frmSletanje.baml
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.g.resources
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.AssemblyInfoInputs.cache
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.AssemblyInfo.cs
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.csproj.CoreCompileInputs.cache
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.csproj.CopyComplete
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.dll
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\ref\Aerodrom Darko Mihic IT69-2020.dll
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.pdb
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\obj\Debug\net6.0-windows\Aerodrom Darko Mihic IT69-2020.genruntimeconfig.cache
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\mihic\Desktop\Projekat Darko Mihić IT69-2020\Aerodrom Darko Mihic IT69-2020\Aerodrom Darko Mihic IT69-2020\bin\Debug\net6.0-windows\itextsharp.dll

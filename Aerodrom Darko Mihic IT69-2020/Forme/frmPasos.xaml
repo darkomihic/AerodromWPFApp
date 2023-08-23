@@ -1,0 +1,23 @@
+﻿<Window x:Class="Aerodrom_Darko_Mihic_IT69_2020.Forme.frmPasos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aerodrom_Darko_Mihic_IT69_2020.Forme"
+        mc:Ignorable="d"
+        Title="frmPasos" Height="220" Width="250">
+    <Grid>
+        <Label Content="Ime:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Prezime:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <Label Content="Država:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+        <Label Content="Uzrast:" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtImePasos" HorizontalAlignment="Left" Margin="42,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPrezimePasos" HorizontalAlignment="Center" Margin="0,45,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtDrzavaPasos" HorizontalAlignment="Left" Margin="59,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtGodinePasos" HorizontalAlignment="Left" Margin="56,107,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <CheckBox x:Name="cbxVizaPasos" Content="Viza" HorizontalAlignment="Left" Margin="33,134,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnSacuvaj" Content="Sačuvaj" HorizontalAlignment="Left" Margin="33,174,0,0" VerticalAlignment="Top" Click="btnSacuvaj_Click"/>
+        <Button x:Name="btnOtkazi" Content="Otkaži" HorizontalAlignment="Left" Margin="161,174,0,0" VerticalAlignment="Top" Click="btnOtkazi_Click"/>
+
+    </Grid>
+</Window>

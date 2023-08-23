@@ -1,0 +1,31 @@
+﻿<Window x:Class="Aerodrom_Darko_Mihic_IT69_2020.Forme.frmPutnik"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aerodrom_Darko_Mihic_IT69_2020.Forme"
+        mc:Ignorable="d"
+        Title="Dodaj/Izmeni putnika" Height="300" Width="300">
+    <Grid>
+        <Label Content="Ime:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Prezime:" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+        <Label Content="Broj telefona:" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top"/>
+        <Label Content="E-Mail:" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top"/>
+        <Label Content="Godine:" HorizontalAlignment="Left" Margin="10,114,0,0" VerticalAlignment="Top"/>
+        <Label Content="JMBG:" HorizontalAlignment="Left" Margin="14,140,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtImePutnik" HorizontalAlignment="Left" Margin="47,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPrezimePutnik" HorizontalAlignment="Left" Margin="65,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtBrojTelPutnik" HorizontalAlignment="Center" Margin="0,66,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtEMailPutnik" HorizontalAlignment="Left" Margin="56,93,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtGodinePutnik" HorizontalAlignment="Left" Margin="61,118,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtJMBGPutnik" HorizontalAlignment="Left" Margin="57,144,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnSačuvaj" Content="Sačuvaj" HorizontalAlignment="Left" Margin="50,254,0,0" VerticalAlignment="Top" Click="btnSačuvaj_Click"/>
+        <Button x:Name="btnOtkazi" Content="Otkaži" HorizontalAlignment="Left" Margin="172,254,0,0" VerticalAlignment="Top" Click="btnOtkazi_Click"/>
+        <Label Content="Prtljag:" HorizontalAlignment="Left" Margin="14,171,0,0" VerticalAlignment="Top"/>
+        <Label Content="Pasos:" HorizontalAlignment="Left" Margin="19,197,0,0" VerticalAlignment="Top"/>
+        <Label Content="Karta:" HorizontalAlignment="Left" Margin="16,225,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbPrtljag" HorizontalAlignment="Left" Margin="65,173,0,0" VerticalAlignment="Top" Width="120" DisplayMemberPath="SifraPrtljag" SelectedValuePath="PrtljagID"/>
+        <ComboBox x:Name="cbPasos" HorizontalAlignment="Left" Margin="66,201,0,0" VerticalAlignment="Top" Width="120" DisplayMemberPath="Pasos1" SelectedValuePath="PasosID"/>
+        <ComboBox x:Name="cbKarta" HorizontalAlignment="Left" Margin="57,228,0,0" VerticalAlignment="Top" Width="120" DisplayMemberPath="SifraKarte" SelectedValuePath="KartaID"/>
+    </Grid>
+</Window>
